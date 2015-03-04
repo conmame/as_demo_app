@@ -1,0 +1,13 @@
+{
+  "name": "ashandson_app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "debug": "2.1.2",
+    "ect": "0.5.9",
+    "express": "4.12.1"
+  }
+}
